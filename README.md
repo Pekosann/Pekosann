@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pekosann, a Chemical Engineering Bachelor Student
+- 👀 I’m interested in Renewable Energies
+- 🌱 I’m currently learning MATLAB and Python for programming language
+- 📫 Most active in Twitter : @pekolxng
